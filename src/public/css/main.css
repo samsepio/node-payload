@@ -1,0 +1,18 @@
+body{
+	background: #11998e;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1,h2,h3,h4,h6{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Acme', sans-serif;
+}
+div{
+    font-family: 'Acme', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
